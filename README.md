@@ -26,3 +26,4 @@ Checks if the current date matches any DOBs
 Sends a birthday email using your Gmail account
 Hosted on PythonAnywhere to run automatically without your local machine
 
+  
