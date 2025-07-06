@@ -2,6 +2,9 @@
 This is a simple Python application that automatically sends personalized birthday emails at 12:00 PM (noon) to users based on their date of birth.
 It reads user data from a CSV or Excel file, checks if today is their birthday, and uses SMTP to send a heartfelt birthday email.
 
+![Birthday Wisher Screenshot](images/Sender.png)
+
+
 📌 Features
 ✅ Reads user info (Full Name, DOB, Email) from .csv or .xlsx files
 ✅ Checks daily for matching birthdays
